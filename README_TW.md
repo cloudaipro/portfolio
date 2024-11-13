@@ -16,7 +16,9 @@
   - Capsule In-Process Control： 即時監控生產流程，確保膠囊等產品的一致性與品質。
 ![{FF9B1962-464F-41C6-BC15-2D50C2A8F926}](https://github.com/user-attachments/assets/fe8a06d5-ea37-426a-a252-a191680be2fe)
   - Weighing and dispensing Control: 確保批次和整批的製造流程嚴格符合要求
-
+  
+- **Production Planning:** 依據銷售狀況，預估即將缺貨或已缺貨的產品，以及下一批次的生產量，並依優先順序排入工廠生產
+  
 - **Raw Material Management**
   - 原物料庫存管理與使用紀錄追蹤
   - COA (Certificate of Analysis)/receiving report/retesting report 等文件管理
@@ -30,6 +32,8 @@
   ![{09623CC9-8D92-4AE2-8D42-FD8524C1110A}](https://github.com/user-attachments/assets/b550bc69-462e-403e-ab74-a101fcbc90ae)
   - recall: 針對有問題的產品批次，寄送recall 信件給客戶，追蹤recall 執行效率
  
+#### **採購系統**
+  - 採購分析
 
 ---
 
