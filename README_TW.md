@@ -3,6 +3,8 @@
 - **股市分析：**
   - 建立 LSTM、TabNet及 LightGBM等模型，以美國股市10年資料進行訓練，預測未來股價
   - 使用 150 技術指標，及複合式指標，建立可靠的操作策略
+  ![image](https://github.com/user-attachments/assets/931e9268-00a6-408f-b818-981cd65557d8)
+
 - **獲獎的數據挖掘產品：** 開發了一個數據挖掘產品，在首屆創新軟件系統比賽中獲得“優秀作品”獎。
 
 #### **MES (Manufacturing Execution Systems)系統設計**
