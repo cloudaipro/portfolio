@@ -1,3 +1,27 @@
+#### **MES (Manufacturing Execution Systems)系統設計**
+- **MES Modeling**
+  - Formulation management:建立生產配方，確保藥品生產的一致性和準確性。
+![{C2D2D73B-D706-4C9E-801C-2A63DE1664AA}](https://github.com/user-attachments/assets/bdde880f-0502-4a96-9cd7-4adb6b8532cb)
+  - Raw material specification management: 原物料產品規格定義
+  - Lot management: Manage your products, formulation, raw/package materials, and recipes
+  - Capsule In-Process Control： 即時監控生產流程，確保膠囊等產品的一致性與品質。
+![{FF9B1962-464F-41C6-BC15-2D50C2A8F926}](https://github.com/user-attachments/assets/fe8a06d5-ea37-426a-a252-a191680be2fe)
+  - Weighing and dispensing Control: 確保批次和整批的製造流程嚴格符合要求
+
+- **Raw Material Management**
+  - 原物料庫存管理與使用紀錄追蹤
+  - COA (Certificate of Analysis)/receiving report/retesting report 等文件管理
+  - Confirmatory testing: 分析收集的樣本以更深入地了解供應商品質。
+
+- **Product Management**
+  - Finished Product Analysis: 根據藥典（例如 EP、USP、BP 和 JP）和規格執行全面的品質控制測試, 確保最終產品符合安全和有效性的標準
+  ![{F3600417-47D8-4734-A9C9-D99C22997473}](https://github.com/user-attachments/assets/614f33e4-2a29-432d-84cc-433aea3539a1)
+  - Stability Study: 執行穩定性研究，確認產品在一段時間內能夠保持其品質。
+  - Test Definition: 定義產品每個成分, 所使用的測試方法與規格
+  ![{09623CC9-8D92-4AE2-8D42-FD8524C1110A}](https://github.com/user-attachments/assets/b550bc69-462e-403e-ab74-a101fcbc90ae)
+  - recall: 針對有問題的產品批次，寄送recall 信件給客戶，追蹤recall 執行效率
+ 
+
 
 #### **MES系統設計、工廠自動化與即時品質控制**
 *專業經驗根基於LCD面板製造業與保健食品製藥業。*
