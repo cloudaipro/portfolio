@@ -7,6 +7,8 @@
 
 - **獲獎的數據挖掘產品：** 開發了一個數據挖掘產品，在首屆創新軟件系統比賽中獲得“優秀作品”獎。
 
+---
+
 #### **MES (Manufacturing Execution Systems)系統設計**
 - **MES Modeling**
   - Formulation management:建立生產配方，確保藥品生產的一致性和準確性。
@@ -16,9 +18,15 @@
   - Capsule In-Process Control： 即時監控生產流程，確保膠囊等產品的一致性與品質。
 ![{FF9B1962-464F-41C6-BC15-2D50C2A8F926}](https://github.com/user-attachments/assets/fe8a06d5-ea37-426a-a252-a191680be2fe)
   - Weighing and dispensing Control: 確保批次和整批的製造流程嚴格符合要求
+  - 
   
-- **Production Planning:** 依據銷售狀況，預估即將缺貨或已缺貨的產品，以及下一批次的生產量，並依優先順序排入工廠生產
-  
+- **Production Planning:** 依據銷售狀況，預估即將缺貨或已缺貨的產品，以及下一批次的生產量。生產批次依優先順序排列
+- **Access Control:** 允許不同的使用者根據其工作職能擁有不同層級的存取權限。
+  - Employee management: 基本員工資料管理，如帳號、密碼、職位、簽名檔等
+  - Group management: 群組(角色)定義，設定人員與群組關係
+  - Security control:設定群組、使用者相對應層級的存取權限
+  ![{25B428E3-2ED1-4719-B876-071FDD5ACAC2}](https://github.com/user-attachments/assets/c872e467-c669-44c1-84b2-03c20faedf5e)
+
 - **Raw Material Management**
   - 原物料庫存管理與使用紀錄追蹤
   - COA (Certificate of Analysis)/receiving report/retesting report 等文件管理
@@ -30,10 +38,13 @@
   - Stability Study: 執行穩定性研究，確認產品在一段時間內能夠保持其品質。
   - Test Definition: 定義產品每個成分, 所使用的測試方法與規格
   ![{09623CC9-8D92-4AE2-8D42-FD8524C1110A}](https://github.com/user-attachments/assets/b550bc69-462e-403e-ab74-a101fcbc90ae)
-  - recall: 針對有問題的產品批次，寄送recall 信件給客戶，追蹤recall 執行效率
+  - Recall Management: 針對有問題的產品批次，寄送recall 信件給客戶，追蹤recall 執行效率
+  - Finihsed Product Cost Analysis: 依據原物料與包裝材購買成本，計算出每個生產批次的成本
  
 #### **採購系統**
-  - 採購分析
+  - Request Analysis(採購需求分析):即將缺貨或已缺貨的產品，根據預估量，計算出所需要的原物料，列出短缺的原物料與其相對應的規格，生產規劃人員可根據需求，將所需購買的原物料，送出採購需求單
+  - Purchase Request Management: 依據需求單，系統會列出相對應的規格選項、符合廠商資料、採購紀錄與價錢，在完成詢價後，送出 purchase order(採購訂單)
+  - Purchase Order Management: 訂單進度追蹤，如採購中、運送中、接收完成等。
 
 ---
 
