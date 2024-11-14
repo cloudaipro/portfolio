@@ -84,8 +84,8 @@
 ---
 ### **工廠自動化與即時品質控制**
 - **機台自動化:** 依據CIM SECS 或 inline 規格，設計機台自動化程式
-- **專有即時品質控制系統(Real time quality control system)：** 開發了一個**即時品質控制系統**，設計“缺陷特徵”(defect feature)算法，進行海量數據的即時分析，有效提升了產品的良率。
-  ![{53E8C8F6-C203-461A-BD27-66E720708D17}](https://github.com/user-attachments/assets/3e4ab463-3799-482c-99b6-a43b9ce89a37)
+- **即時品質控制系統(Real time quality control system)：**
+![{53E8C8F6-C203-461A-BD27-66E720708D17}](https://github.com/user-attachments/assets/3e4ab463-3799-482c-99b6-a43b9ce89a37)
   - Defect Feature（DF）設計：將與品質監控有關之資訊抽離出來，只需小量記憶體，可常駐在記憶體，提升即時監控之效能
   - Defect Loader：負責接收機台檢測資料，並將其轉換成defect feature，寫入RTQCS DB中
   - Defect Feature 分析程式: 根據事先定義好的規則，即時監控廠內所有各種Defect狀況，若有異常則即時alarm
