@@ -92,7 +92,7 @@
   - Judge Defect Tool: 提供對INLINE AOI Defect，作進一步的分析與重判
   - Central Quality Monitor(CQM): 即時監控廠內所有各種Defect狀況和特性值規格，以整合性方式顯示，若有異常則即時alarm
 
-- **故障檢測與分類（Fault Detection and Classification）：**
+- **故障檢測與分類（Fault Detection and Classification）：**  
   ![image](https://github.com/user-attachments/assets/ca72018c-be49-4e4a-a5f0-953bc220b26f)
   - FDCConsole主程式：負責接收Data Collection送來之資料，並根據user事先設定之FDCRule，check是否發生alarm，若發生alarm將該alarm寫入APC DB中
   -	APC DB：存放FDCRule、FDCRuleApply、Alarm及TraceData等等
