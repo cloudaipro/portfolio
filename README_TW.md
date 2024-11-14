@@ -47,7 +47,20 @@
   - Purchase Order Management: 訂單進度追蹤，如採購中、運送中、接收完成等。
 
 ---
+#### **實驗室系統 (Laboratory Management)**
+  - Test Method Database:
+  ![{5A057D5B-3A93-4979-B9CE-A540D65DDCEA}](https://github.com/user-attachments/assets/dc2226fa-e387-4dda-8422-8391424fe7e0)
+    - 定義每個成分的測試方法與SOP
+    - 版本控制:每次修正完成的版本，均賦予一個版本號碼
+    - 審核機制管控:分成[review request]與[approved]兩個狀態，測試人員只能使用 [approved] 的 Test Method
+  - Test Request: 依據需要，定義測試需求，如成分名稱、測試方法、測試規格等
+  - Test Analysis:
+    - 實驗室人員依據測試需求，進行實驗，紀錄實驗結果。
+    - 審核機制: 測試完，進入[review request]，審核結果分為:[PASS],[Out of Spec.],[REDO]
+    ![{9DBA523C-3BAA-43BB-A531-404B1862BEA6}](https://github.com/user-attachments/assets/6be9340e-d2ce-4f4f-a0e6-baf1d7860998)
+  - Test Report: 依據測試結果，產生CoA(Certificate of Analysis)，寄送email給客戶
 
+---
 #### **MES系統設計、工廠自動化與即時品質控制**
 *專業經驗根基於LCD面板製造業與保健食品製藥業。*
 
