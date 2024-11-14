@@ -97,54 +97,14 @@
   - FDCConsole主程式：負責接收Data Collection送來之資料，並根據user事先設定之FDCRule，check是否發生alarm，若發生alarm將該alarm寫入APC DB中
   -	APC DB：存放FDCRule、FDCRuleApply、Alarm及TraceData等等
   -	APC Website：為user之使用介面，含Trace Data查詢、Alarm Data查詢
-  - APCDesigner：提供給user之rule建立的介面，其概念類似於BRM modeling tool，可根據FDCFunction、DPMethod及歷史資料建立FDCRule model，再將該FDCRule Model依據機台與recipe建立FDCRuleApply
-
-
-
+  - APCDesigner：提供給user之rule建立的介面，可根據FDCFunction、DPMethod及歷史資料建立FDCRule model，再將該FDCRule Model依據機台與recipe建立FDCRuleApply
 ---
-
-
-
----
-
 #### **手機 app 開發**
-
-- 為iOS和Android平台開發app，針對用戶需求和業務需求進行功能定制。
-
----
-
-#### **網頁開發與維護**
-
-- 為各類客戶提供定制化網頁開發服務，包括各種組件、模組和插件的開發。
-- 持續提供網站維護，確保網站穩定運行並優化用戶體驗。
-
----
-
-#### **數據庫架構與優化**
-
-- 設計並優化數據倉儲，實現高效的報表生成與數據分析。
-- 重構數據庫伺服器架構，提升數據處理的性能與效率。
-
----
-
-#### **數據收集、分析與自動化系統整合**
-
-- 開發了用於工廠系統的計算機集成製造（CIM）程序。
-- 為太陽能及風能等可再生能源系統設計數據收集與分析程序。
-
----
-
-#### **專案管理與領導能力**
-
-- 全面負責MES、POS、電子商務與品質控制系統的分析、設計及實施。
-- 主導大型自動化與品質控制項目的全流程，確保合規並優化運營效能。
-- 指導CRM與數據挖掘產品的開發，監督數據庫架構重設，增強系統功能。
-
----
-
-#### **系統分析與設計**
-
-- 執行全方位的系統分析，運用面向對象的設計方法於MES、POS及運營管理系統。
-- 運用面向對象的設計原則，提升自動化與數據分析解決方案的有效性。
+- Simply Scanner(https://apps.apple.com/us/app/simply-scanner-pdf-docs-scan/id1619943223)
+![{758BB3BF-02FC-4B90-8573-692F8FA846B3}](https://github.com/user-attachments/assets/3e5b6805-f984-427d-a6be-d2ac163b6b74)
+- Sudo Master(https://apps.apple.com/us/app/sudoku-master-puzzle-game/id6445899434)
+![{04A0F296-5E2E-425D-888A-7CE39B690D8E}](https://github.com/user-attachments/assets/9a1cb47f-3fce-417f-9401-5cf1b7ae9b15)
+- Tally Counter -digital counter(https://apps.apple.com/us/app/tally-counter-digital-counter/id1668011020)
+![{14A6BDE8-F09E-4A67-BB2B-08984843541F}](https://github.com/user-attachments/assets/965f0e86-1364-4597-b75d-a4b325cb5a32)
 
 ---
