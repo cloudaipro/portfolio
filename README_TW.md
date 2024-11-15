@@ -105,7 +105,7 @@
 #### **手機 app 開發**
 - Simply Scanner(https://apps.apple.com/us/app/simply-scanner-pdf-docs-scan/id1619943223): 簡單易用、功能強大的文件掃描 app  
 ![{758BB3BF-02FC-4B90-8573-692F8FA846B3}](https://github.com/user-attachments/assets/3e5b6805-f984-427d-a6be-d2ac163b6b74)
-- Sudo Master(https://apps.apple.com/us/app/sudoku-master-puzzle-game/id6445899434): 經典的數獨益智遊戲，提供超過2萬個的數獨  
+- Sudoku Master(https://apps.apple.com/us/app/sudoku-master-puzzle-game/id6445899434): 經典的數獨益智遊戲，提供超過2萬個的數獨  
 ![{04A0F296-5E2E-425D-888A-7CE39B690D8E}](https://github.com/user-attachments/assets/9a1cb47f-3fce-417f-9401-5cf1b7ae9b15)
 - Tally Counter -digital counter(https://apps.apple.com/us/app/tally-counter-digital-counter/id1668011020): 簡單數位計數器
 ![{14A6BDE8-F09E-4A67-BB2B-08984843541F}](https://github.com/user-attachments/assets/965f0e86-1364-4597-b75d-a4b325cb5a32)
